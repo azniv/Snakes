@@ -1,0 +1,10 @@
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\bin\Release\WindowsFormsApp13.exe.config
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\bin\Release\WindowsFormsApp13.exe
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\bin\Release\WindowsFormsApp13.pdb
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.csprojAssemblyReference.cache
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.Game.resources
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.Properties.Resources.resources
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.csproj.GenerateResource.cache
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.exe
+A:\C#\WindowsFormsApp13\WindowsFormsApp13\obj\Release\WindowsFormsApp13.pdb
